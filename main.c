@@ -20,14 +20,9 @@ void rastgele(int lower,int higher,int tane)
     }
 }
 
-
-
-
 int main(int argc, const char * argv[])
 {
     int lower=0, higher=50, tane=5;
     rastgele(lower,higher,tane);
-    
-  
     return 0;
 }
